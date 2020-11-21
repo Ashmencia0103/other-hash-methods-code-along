@@ -89,7 +89,7 @@ groceries.values
 Now, to get all the values in a flat array:
 
 ```ruby
-groceries.values.flatten
+
 #=> ["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", "chicken", "steak", "salmon", "rice", "pasta"]
 ```
 
